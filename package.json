@@ -2,6 +2,7 @@
   "name": "react",
   "version": "1.0.0",
   "description": "React example starter project",
+  "homepage": "https://skyying.github.io/five_in_a_row",
   "keywords": [
     "react",
     "starter"
@@ -14,13 +15,16 @@
     "styled-components": "5.0.1"
   },
   "devDependencies": {
+    "gh-pages": "^2.2.0",
     "typescript": "3.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
