@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.79345e0c.chunk.css",
-    "main.js": "/static/js/main.d3bcb8f2.chunk.js",
-    "main.js.map": "/static/js/main.d3bcb8f2.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.714dd2ea.chunk.js": "/static/js/2.714dd2ea.chunk.js",
-    "static/js/2.714dd2ea.chunk.js.map": "/static/js/2.714dd2ea.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2e90c4372d2868bfa7a7fcae6736ce6f.js": "/precache-manifest.2e90c4372d2868bfa7a7fcae6736ce6f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.79345e0c.chunk.css.map": "/static/css/main.79345e0c.chunk.css.map"
+    "main.css": "https://skyying.github.io/build/static/css/main.79345e0c.chunk.css",
+    "main.js": "https://skyying.github.io/build/static/js/main.d3bcb8f2.chunk.js",
+    "main.js.map": "https://skyying.github.io/build/static/js/main.d3bcb8f2.chunk.js.map",
+    "runtime~main.js": "https://skyying.github.io/build/static/js/runtime~main.dfccd6d4.js",
+    "runtime~main.js.map": "https://skyying.github.io/build/static/js/runtime~main.dfccd6d4.js.map",
+    "static/js/2.52727fc6.chunk.js": "https://skyying.github.io/build/static/js/2.52727fc6.chunk.js",
+    "static/js/2.52727fc6.chunk.js.map": "https://skyying.github.io/build/static/js/2.52727fc6.chunk.js.map",
+    "index.html": "https://skyying.github.io/build/index.html",
+    "precache-manifest.dab7d60c1f6d6464bd434ce3d848d25d.js": "https://skyying.github.io/build/precache-manifest.dab7d60c1f6d6464bd434ce3d848d25d.js",
+    "service-worker.js": "https://skyying.github.io/build/service-worker.js",
+    "static/css/main.79345e0c.chunk.css.map": "https://skyying.github.io/build/static/css/main.79345e0c.chunk.css.map"
   }
 }
